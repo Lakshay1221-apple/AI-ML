@@ -1,0 +1,1352 @@
+[
+  {
+    "No": 1,
+    "Name": "Pokemon1",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 3.01,
+    "Weight": 106.3,
+    "Legendary": 0
+  },
+  {
+    "No": 2,
+    "Name": "Pokemon2",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 2.82,
+    "Weight": 87.5,
+    "Legendary": 0
+  },
+  {
+    "No": 3,
+    "Name": "Pokemon3",
+    "Type1": "Normal",
+    "Type2": "Bug",
+    "Height": 1.16,
+    "Weight": 283.8,
+    "Legendary": 0
+  },
+  {
+    "No": 4,
+    "Name": "Pokemon4",
+    "Type1": "Flying",
+    "Type2": "",
+    "Height": 3.41,
+    "Weight": 88.1,
+    "Legendary": 0
+  },
+  {
+    "No": 5,
+    "Name": "Pokemon5",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 1.6,
+    "Weight": 83.7,
+    "Legendary": 0
+  },
+  {
+    "No": 6,
+    "Name": "Pokemon6",
+    "Type1": "Bug",
+    "Type2": "Dragon",
+    "Height": 2.26,
+    "Weight": 218.7,
+    "Legendary": 0
+  },
+  {
+    "No": 7,
+    "Name": "Pokemon7",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 1.52,
+    "Weight": 113.6,
+    "Legendary": 0
+  },
+  {
+    "No": 8,
+    "Name": "Pokemon8",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 1.8,
+    "Weight": 109.2,
+    "Legendary": 0
+  },
+  {
+    "No": 9,
+    "Name": "Pokemon9",
+    "Type1": "Grass",
+    "Type2": "Water",
+    "Height": 2.84,
+    "Weight": 163.7,
+    "Legendary": 0
+  },
+  {
+    "No": 10,
+    "Name": "Pokemon10",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 2.59,
+    "Weight": 221.7,
+    "Legendary": 0
+  },
+  {
+    "No": 11,
+    "Name": "Pokemon11",
+    "Type1": "Electric",
+    "Type2": "",
+    "Height": 2.71,
+    "Weight": 32.3,
+    "Legendary": 0
+  },
+  {
+    "No": 12,
+    "Name": "Pokemon12",
+    "Type1": "Normal",
+    "Type2": "Normal",
+    "Height": 1.66,
+    "Weight": 14.7,
+    "Legendary": 0
+  },
+  {
+    "No": 13,
+    "Name": "Pokemon13",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 2.57,
+    "Weight": 113.7,
+    "Legendary": 0
+  },
+  {
+    "No": 14,
+    "Name": "Pokemon14",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 1.51,
+    "Weight": 116.9,
+    "Legendary": 0
+  },
+  {
+    "No": 15,
+    "Name": "Pokemon15",
+    "Type1": "Bug",
+    "Type2": "Grass",
+    "Height": 1.47,
+    "Weight": 53.4,
+    "Legendary": 0
+  },
+  {
+    "No": 16,
+    "Name": "Pokemon16",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 1.88,
+    "Weight": 203.8,
+    "Legendary": 0
+  },
+  {
+    "No": 17,
+    "Name": "Pokemon17",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 0.61,
+    "Weight": 241.0,
+    "Legendary": 0
+  },
+  {
+    "No": 18,
+    "Name": "Pokemon18",
+    "Type1": "Grass",
+    "Type2": "Flying",
+    "Height": 1.91,
+    "Weight": 112.2,
+    "Legendary": 0
+  },
+  {
+    "No": 19,
+    "Name": "Pokemon19",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 0.67,
+    "Weight": 27.3,
+    "Legendary": 0
+  },
+  {
+    "No": 20,
+    "Name": "Pokemon20",
+    "Type1": "Psychic",
+    "Type2": "",
+    "Height": 2.41,
+    "Weight": 46.7,
+    "Legendary": 0
+  },
+  {
+    "No": 21,
+    "Name": "Pokemon21",
+    "Type1": "Psychic",
+    "Type2": "Bug",
+    "Height": 1.83,
+    "Weight": 231.9,
+    "Legendary": 0
+  },
+  {
+    "No": 22,
+    "Name": "Pokemon22",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 2.1,
+    "Weight": 204.2,
+    "Legendary": 0
+  },
+  {
+    "No": 23,
+    "Name": "Pokemon23",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 3.22,
+    "Weight": 252.6,
+    "Legendary": 0
+  },
+  {
+    "No": 24,
+    "Name": "Pokemon24",
+    "Type1": "Water",
+    "Type2": "Fire",
+    "Height": 3.44,
+    "Weight": 231.0,
+    "Legendary": 0
+  },
+  {
+    "No": 25,
+    "Name": "Pokemon25",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 1.1,
+    "Weight": 267.0,
+    "Legendary": 0
+  },
+  {
+    "No": 26,
+    "Name": "Pokemon26",
+    "Type1": "Electric",
+    "Type2": "",
+    "Height": 2.59,
+    "Weight": 47.3,
+    "Legendary": 0
+  },
+  {
+    "No": 27,
+    "Name": "Pokemon27",
+    "Type1": "Psychic",
+    "Type2": "Flying",
+    "Height": 0.42,
+    "Weight": 24.7,
+    "Legendary": 0
+  },
+  {
+    "No": 28,
+    "Name": "Pokemon28",
+    "Type1": "Bug",
+    "Type2": "",
+    "Height": 1.46,
+    "Weight": 257.7,
+    "Legendary": 0
+  },
+  {
+    "No": 29,
+    "Name": "Pokemon29",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 2.49,
+    "Weight": 45.0,
+    "Legendary": 0
+  },
+  {
+    "No": 30,
+    "Name": "Pokemon30",
+    "Type1": "Bug",
+    "Type2": "Bug",
+    "Height": 1.61,
+    "Weight": 234.9,
+    "Legendary": 0
+  },
+  {
+    "No": 31,
+    "Name": "Pokemon31",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 2.09,
+    "Weight": 196.0,
+    "Legendary": 0
+  },
+  {
+    "No": 32,
+    "Name": "Pokemon32",
+    "Type1": "Bug",
+    "Type2": "",
+    "Height": 3.27,
+    "Weight": 272.4,
+    "Legendary": 0
+  },
+  {
+    "No": 33,
+    "Name": "Pokemon33",
+    "Type1": "Normal",
+    "Type2": "Electric",
+    "Height": 3.25,
+    "Weight": 101.6,
+    "Legendary": 0
+  },
+  {
+    "No": 34,
+    "Name": "Pokemon34",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 0.32,
+    "Weight": 252.3,
+    "Legendary": 0
+  },
+  {
+    "No": 35,
+    "Name": "Pokemon35",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 0.52,
+    "Weight": 53.2,
+    "Legendary": 0
+  },
+  {
+    "No": 36,
+    "Name": "Pokemon36",
+    "Type1": "Normal",
+    "Type2": "Water",
+    "Height": 3.36,
+    "Weight": 10.3,
+    "Legendary": 0
+  },
+  {
+    "No": 37,
+    "Name": "Pokemon37",
+    "Type1": "Flying",
+    "Type2": "",
+    "Height": 3.22,
+    "Weight": 138.3,
+    "Legendary": 0
+  },
+  {
+    "No": 38,
+    "Name": "Pokemon38",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 2.14,
+    "Weight": 219.4,
+    "Legendary": 0
+  },
+  {
+    "No": 39,
+    "Name": "Pokemon39",
+    "Type1": "Normal",
+    "Type2": "Rock",
+    "Height": 0.37,
+    "Weight": 91.3,
+    "Legendary": 0
+  },
+  {
+    "No": 40,
+    "Name": "Pokemon40",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 1.19,
+    "Weight": 210.9,
+    "Legendary": 0
+  },
+  {
+    "No": 41,
+    "Name": "Pokemon41",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 1.22,
+    "Weight": 144.6,
+    "Legendary": 0
+  },
+  {
+    "No": 42,
+    "Name": "Pokemon42",
+    "Type1": "Flying",
+    "Type2": "Dragon",
+    "Height": 0.48,
+    "Weight": 142.1,
+    "Legendary": 0
+  },
+  {
+    "No": 43,
+    "Name": "Pokemon43",
+    "Type1": "Flying",
+    "Type2": "",
+    "Height": 1.15,
+    "Weight": 228.7,
+    "Legendary": 0
+  },
+  {
+    "No": 44,
+    "Name": "Pokemon44",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 1.08,
+    "Weight": 288.4,
+    "Legendary": 0
+  },
+  {
+    "No": 45,
+    "Name": "Pokemon45",
+    "Type1": "Water",
+    "Type2": "Psychic",
+    "Height": 1.39,
+    "Weight": 133.4,
+    "Legendary": 0
+  },
+  {
+    "No": 46,
+    "Name": "Pokemon46",
+    "Type1": "Flying",
+    "Type2": "",
+    "Height": 0.45,
+    "Weight": 199.4,
+    "Legendary": 0
+  },
+  {
+    "No": 47,
+    "Name": "Pokemon47",
+    "Type1": "Bug",
+    "Type2": "",
+    "Height": 0.59,
+    "Weight": 230.2,
+    "Legendary": 0
+  },
+  {
+    "No": 48,
+    "Name": "Pokemon48",
+    "Type1": "Fire",
+    "Type2": "Electric",
+    "Height": 1.7,
+    "Weight": 228.2,
+    "Legendary": 0
+  },
+  {
+    "No": 49,
+    "Name": "Pokemon49",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 1.82,
+    "Weight": 61.8,
+    "Legendary": 0
+  },
+  {
+    "No": 50,
+    "Name": "Pokemon50",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 2.33,
+    "Weight": 228.8,
+    "Legendary": 0
+  },
+  {
+    "No": 51,
+    "Name": "Pokemon51",
+    "Type1": "Normal",
+    "Type2": "Flying",
+    "Height": 2.53,
+    "Weight": 183.1,
+    "Legendary": 0
+  },
+  {
+    "No": 52,
+    "Name": "Pokemon52",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 2.09,
+    "Weight": 139.4,
+    "Legendary": 0
+  },
+  {
+    "No": 53,
+    "Name": "Pokemon53",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 3.28,
+    "Weight": 216.6,
+    "Legendary": 0
+  },
+  {
+    "No": 54,
+    "Name": "Pokemon54",
+    "Type1": "Electric",
+    "Type2": "Normal",
+    "Height": 0.35,
+    "Weight": 117.7,
+    "Legendary": 0
+  },
+  {
+    "No": 55,
+    "Name": "Pokemon55",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 3.4,
+    "Weight": 44.7,
+    "Legendary": 0
+  },
+  {
+    "No": 56,
+    "Name": "Pokemon56",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 0.57,
+    "Weight": 207.5,
+    "Legendary": 0
+  },
+  {
+    "No": 57,
+    "Name": "Pokemon57",
+    "Type1": "Fire",
+    "Type2": "Psychic",
+    "Height": 2.12,
+    "Weight": 116.9,
+    "Legendary": 0
+  },
+  {
+    "No": 58,
+    "Name": "Pokemon58",
+    "Type1": "Bug",
+    "Type2": "",
+    "Height": 2.22,
+    "Weight": 282.7,
+    "Legendary": 0
+  },
+  {
+    "No": 59,
+    "Name": "Pokemon59",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 1.18,
+    "Weight": 49.1,
+    "Legendary": 0
+  },
+  {
+    "No": 60,
+    "Name": "Pokemon60",
+    "Type1": "Bug",
+    "Type2": "Water",
+    "Height": 2.57,
+    "Weight": 13.7,
+    "Legendary": 0
+  },
+  {
+    "No": 61,
+    "Name": "Pokemon61",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 1.27,
+    "Weight": 245.1,
+    "Legendary": 0
+  },
+  {
+    "No": 62,
+    "Name": "Pokemon62",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 0.52,
+    "Weight": 40.4,
+    "Legendary": 0
+  },
+  {
+    "No": 63,
+    "Name": "Pokemon63",
+    "Type1": "Bug",
+    "Type2": "Rock",
+    "Height": 1.66,
+    "Weight": 297.0,
+    "Legendary": 0
+  },
+  {
+    "No": 64,
+    "Name": "Pokemon64",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 2.4,
+    "Weight": 29.5,
+    "Legendary": 0
+  },
+  {
+    "No": 65,
+    "Name": "Pokemon65",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 3.26,
+    "Weight": 106.5,
+    "Legendary": 0
+  },
+  {
+    "No": 66,
+    "Name": "Pokemon66",
+    "Type1": "Flying",
+    "Type2": "Rock",
+    "Height": 3.18,
+    "Weight": 279.2,
+    "Legendary": 0
+  },
+  {
+    "No": 67,
+    "Name": "Pokemon67",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 3.05,
+    "Weight": 236.6,
+    "Legendary": 0
+  },
+  {
+    "No": 68,
+    "Name": "Pokemon68",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 2.21,
+    "Weight": 85.5,
+    "Legendary": 0
+  },
+  {
+    "No": 69,
+    "Name": "Pokemon69",
+    "Type1": "Fire",
+    "Type2": "Grass",
+    "Height": 1.99,
+    "Weight": 82.0,
+    "Legendary": 0
+  },
+  {
+    "No": 70,
+    "Name": "Pokemon70",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 3.26,
+    "Weight": 180.4,
+    "Legendary": 0
+  },
+  {
+    "No": 71,
+    "Name": "Pokemon71",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 1.12,
+    "Weight": 274.3,
+    "Legendary": 0
+  },
+  {
+    "No": 72,
+    "Name": "Pokemon72",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "Height": 0.36,
+    "Weight": 51.6,
+    "Legendary": 0
+  },
+  {
+    "No": 73,
+    "Name": "Pokemon73",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 1.53,
+    "Weight": 235.4,
+    "Legendary": 0
+  },
+  {
+    "No": 74,
+    "Name": "Pokemon74",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 0.38,
+    "Weight": 209.0,
+    "Legendary": 0
+  },
+  {
+    "No": 75,
+    "Name": "Pokemon75",
+    "Type1": "Rock",
+    "Type2": "Grass",
+    "Height": 2.03,
+    "Weight": 57.1,
+    "Legendary": 0
+  },
+  {
+    "No": 76,
+    "Name": "Pokemon76",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 2.12,
+    "Weight": 273.0,
+    "Legendary": 0
+  },
+  {
+    "No": 77,
+    "Name": "Pokemon77",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 0.41,
+    "Weight": 179.2,
+    "Legendary": 0
+  },
+  {
+    "No": 78,
+    "Name": "Pokemon78",
+    "Type1": "Bug",
+    "Type2": "Dragon",
+    "Height": 0.89,
+    "Weight": 112.4,
+    "Legendary": 0
+  },
+  {
+    "No": 79,
+    "Name": "Pokemon79",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 0.59,
+    "Weight": 48.0,
+    "Legendary": 0
+  },
+  {
+    "No": 80,
+    "Name": "Pokemon80",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 0.43,
+    "Weight": 112.6,
+    "Legendary": 0
+  },
+  {
+    "No": 81,
+    "Name": "Pokemon81",
+    "Type1": "Psychic",
+    "Type2": "Flying",
+    "Height": 1.72,
+    "Weight": 167.6,
+    "Legendary": 0
+  },
+  {
+    "No": 82,
+    "Name": "Pokemon82",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 0.72,
+    "Weight": 71.2,
+    "Legendary": 0
+  },
+  {
+    "No": 83,
+    "Name": "Pokemon83",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 1.12,
+    "Weight": 216.1,
+    "Legendary": 0
+  },
+  {
+    "No": 84,
+    "Name": "Pokemon84",
+    "Type1": "Bug",
+    "Type2": "Water",
+    "Height": 2.3,
+    "Weight": 49.6,
+    "Legendary": 0
+  },
+  {
+    "No": 85,
+    "Name": "Pokemon85",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 1.25,
+    "Weight": 291.9,
+    "Legendary": 0
+  },
+  {
+    "No": 86,
+    "Name": "Pokemon86",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 1.88,
+    "Weight": 263.5,
+    "Legendary": 0
+  },
+  {
+    "No": 87,
+    "Name": "Pokemon87",
+    "Type1": "Rock",
+    "Type2": "Psychic",
+    "Height": 0.93,
+    "Weight": 226.1,
+    "Legendary": 0
+  },
+  {
+    "No": 88,
+    "Name": "Pokemon88",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 2.22,
+    "Weight": 46.6,
+    "Legendary": 0
+  },
+  {
+    "No": 89,
+    "Name": "Pokemon89",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 0.74,
+    "Weight": 78.0,
+    "Legendary": 0
+  },
+  {
+    "No": 90,
+    "Name": "Pokemon90",
+    "Type1": "Rock",
+    "Type2": "Dragon",
+    "Height": 1.53,
+    "Weight": 70.8,
+    "Legendary": 0
+  },
+  {
+    "No": 91,
+    "Name": "Pokemon91",
+    "Type1": "Electric",
+    "Type2": "",
+    "Height": 3.17,
+    "Weight": 85.8,
+    "Legendary": 0
+  },
+  {
+    "No": 92,
+    "Name": "Pokemon92",
+    "Type1": "Bug",
+    "Type2": "",
+    "Height": 2.27,
+    "Weight": 133.6,
+    "Legendary": 0
+  },
+  {
+    "No": 93,
+    "Name": "Pokemon93",
+    "Type1": "Electric",
+    "Type2": "Flying",
+    "Height": 1.44,
+    "Weight": 200.0,
+    "Legendary": 0
+  },
+  {
+    "No": 94,
+    "Name": "Pokemon94",
+    "Type1": "Electric",
+    "Type2": "",
+    "Height": 1.14,
+    "Weight": 127.7,
+    "Legendary": 0
+  },
+  {
+    "No": 95,
+    "Name": "Pokemon95",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 1.51,
+    "Weight": 134.0,
+    "Legendary": 0
+  },
+  {
+    "No": 96,
+    "Name": "Pokemon96",
+    "Type1": "Dragon",
+    "Type2": "Grass",
+    "Height": 2.2,
+    "Weight": 258.9,
+    "Legendary": 0
+  },
+  {
+    "No": 97,
+    "Name": "Pokemon97",
+    "Type1": "Flying",
+    "Type2": "",
+    "Height": 0.36,
+    "Weight": 96.6,
+    "Legendary": 0
+  },
+  {
+    "No": 98,
+    "Name": "Pokemon98",
+    "Type1": "Bug",
+    "Type2": "",
+    "Height": 1.81,
+    "Weight": 260.0,
+    "Legendary": 0
+  },
+  {
+    "No": 99,
+    "Name": "Pokemon99",
+    "Type1": "Bug",
+    "Type2": "Rock",
+    "Height": 1.71,
+    "Weight": 43.7,
+    "Legendary": 0
+  },
+  {
+    "No": 100,
+    "Name": "Pokemon100",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 3.32,
+    "Weight": 270.2,
+    "Legendary": 0
+  },
+  {
+    "No": 101,
+    "Name": "Pokemon101",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 2.89,
+    "Weight": 5.6,
+    "Legendary": 0
+  },
+  {
+    "No": 102,
+    "Name": "Pokemon102",
+    "Type1": "Rock",
+    "Type2": "Flying",
+    "Height": 1.39,
+    "Weight": 129.2,
+    "Legendary": 0
+  },
+  {
+    "No": 103,
+    "Name": "Pokemon103",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 1.88,
+    "Weight": 26.8,
+    "Legendary": 0
+  },
+  {
+    "No": 104,
+    "Name": "Pokemon104",
+    "Type1": "Flying",
+    "Type2": "",
+    "Height": 1.53,
+    "Weight": 228.5,
+    "Legendary": 0
+  },
+  {
+    "No": 105,
+    "Name": "Pokemon105",
+    "Type1": "Rock",
+    "Type2": "Bug",
+    "Height": 0.61,
+    "Weight": 198.9,
+    "Legendary": 0
+  },
+  {
+    "No": 106,
+    "Name": "Pokemon106",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 0.37,
+    "Weight": 10.0,
+    "Legendary": 0
+  },
+  {
+    "No": 107,
+    "Name": "Pokemon107",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 2.15,
+    "Weight": 132.7,
+    "Legendary": 0
+  },
+  {
+    "No": 108,
+    "Name": "Pokemon108",
+    "Type1": "Grass",
+    "Type2": "Bug",
+    "Height": 0.68,
+    "Weight": 185.7,
+    "Legendary": 0
+  },
+  {
+    "No": 109,
+    "Name": "Pokemon109",
+    "Type1": "Electric",
+    "Type2": "",
+    "Height": 1.45,
+    "Weight": 224.3,
+    "Legendary": 0
+  },
+  {
+    "No": 110,
+    "Name": "Pokemon110",
+    "Type1": "Flying",
+    "Type2": "",
+    "Height": 2.82,
+    "Weight": 207.1,
+    "Legendary": 0
+  },
+  {
+    "No": 111,
+    "Name": "Pokemon111",
+    "Type1": "Flying",
+    "Type2": "Grass",
+    "Height": 3.43,
+    "Weight": 242.8,
+    "Legendary": 0
+  },
+  {
+    "No": 112,
+    "Name": "Pokemon112",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 3.02,
+    "Weight": 209.1,
+    "Legendary": 0
+  },
+  {
+    "No": 113,
+    "Name": "Pokemon113",
+    "Type1": "Electric",
+    "Type2": "",
+    "Height": 1.63,
+    "Weight": 254.5,
+    "Legendary": 0
+  },
+  {
+    "No": 114,
+    "Name": "Pokemon114",
+    "Type1": "Fire",
+    "Type2": "Electric",
+    "Height": 0.3,
+    "Weight": 85.1,
+    "Legendary": 0
+  },
+  {
+    "No": 115,
+    "Name": "Pokemon115",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 1.79,
+    "Weight": 6.1,
+    "Legendary": 0
+  },
+  {
+    "No": 116,
+    "Name": "Pokemon116",
+    "Type1": "Bug",
+    "Type2": "",
+    "Height": 1.63,
+    "Weight": 257.6,
+    "Legendary": 0
+  },
+  {
+    "No": 117,
+    "Name": "Pokemon117",
+    "Type1": "Water",
+    "Type2": "Bug",
+    "Height": 0.99,
+    "Weight": 255.3,
+    "Legendary": 0
+  },
+  {
+    "No": 118,
+    "Name": "Pokemon118",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 2.14,
+    "Weight": 285.9,
+    "Legendary": 0
+  },
+  {
+    "No": 119,
+    "Name": "Pokemon119",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 2.47,
+    "Weight": 138.4,
+    "Legendary": 0
+  },
+  {
+    "No": 120,
+    "Name": "Pokemon120",
+    "Type1": "Dragon",
+    "Type2": "Grass",
+    "Height": 1.1,
+    "Weight": 211.9,
+    "Legendary": 0
+  },
+  {
+    "No": 121,
+    "Name": "Pokemon121",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 0.46,
+    "Weight": 205.0,
+    "Legendary": 0
+  },
+  {
+    "No": 122,
+    "Name": "Pokemon122",
+    "Type1": "Bug",
+    "Type2": "",
+    "Height": 2.06,
+    "Weight": 47.9,
+    "Legendary": 0
+  },
+  {
+    "No": 123,
+    "Name": "Pokemon123",
+    "Type1": "Water",
+    "Type2": "Rock",
+    "Height": 1.83,
+    "Weight": 133.8,
+    "Legendary": 0
+  },
+  {
+    "No": 124,
+    "Name": "Pokemon124",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 1.69,
+    "Weight": 48.8,
+    "Legendary": 0
+  },
+  {
+    "No": 125,
+    "Name": "Pokemon125",
+    "Type1": "Psychic",
+    "Type2": "",
+    "Height": 0.53,
+    "Weight": 81.0,
+    "Legendary": 0
+  },
+  {
+    "No": 126,
+    "Name": "Pokemon126",
+    "Type1": "Rock",
+    "Type2": "Flying",
+    "Height": 2.01,
+    "Weight": 208.5,
+    "Legendary": 0
+  },
+  {
+    "No": 127,
+    "Name": "Pokemon127",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 2.29,
+    "Weight": 216.1,
+    "Legendary": 0
+  },
+  {
+    "No": 128,
+    "Name": "Pokemon128",
+    "Type1": "Flying",
+    "Type2": "",
+    "Height": 3.39,
+    "Weight": 200.1,
+    "Legendary": 0
+  },
+  {
+    "No": 129,
+    "Name": "Pokemon129",
+    "Type1": "Fire",
+    "Type2": "Psychic",
+    "Height": 1.25,
+    "Weight": 136.4,
+    "Legendary": 0
+  },
+  {
+    "No": 130,
+    "Name": "Pokemon130",
+    "Type1": "Psychic",
+    "Type2": "",
+    "Height": 2.17,
+    "Weight": 111.3,
+    "Legendary": 0
+  },
+  {
+    "No": 131,
+    "Name": "Pokemon131",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 1.45,
+    "Weight": 200.6,
+    "Legendary": 0
+  },
+  {
+    "No": 132,
+    "Name": "Pokemon132",
+    "Type1": "Psychic",
+    "Type2": "Normal",
+    "Height": 3.25,
+    "Weight": 183.8,
+    "Legendary": 0
+  },
+  {
+    "No": 133,
+    "Name": "Pokemon133",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 3.09,
+    "Weight": 252.8,
+    "Legendary": 0
+  },
+  {
+    "No": 134,
+    "Name": "Pokemon134",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 3.11,
+    "Weight": 128.8,
+    "Legendary": 0
+  },
+  {
+    "No": 135,
+    "Name": "Pokemon135",
+    "Type1": "Fire",
+    "Type2": "Electric",
+    "Height": 1.36,
+    "Weight": 171.4,
+    "Legendary": 0
+  },
+  {
+    "No": 136,
+    "Name": "Pokemon136",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 1.31,
+    "Weight": 152.6,
+    "Legendary": 0
+  },
+  {
+    "No": 137,
+    "Name": "Pokemon137",
+    "Type1": "Bug",
+    "Type2": "",
+    "Height": 3.44,
+    "Weight": 175.8,
+    "Legendary": 0
+  },
+  {
+    "No": 138,
+    "Name": "Pokemon138",
+    "Type1": "Bug",
+    "Type2": "Grass",
+    "Height": 2.54,
+    "Weight": 238.9,
+    "Legendary": 0
+  },
+  {
+    "No": 139,
+    "Name": "Pokemon139",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 1.68,
+    "Weight": 113.1,
+    "Legendary": 0
+  },
+  {
+    "No": 140,
+    "Name": "Pokemon140",
+    "Type1": "Rock",
+    "Type2": "",
+    "Height": 2.36,
+    "Weight": 35.8,
+    "Legendary": 0
+  },
+  {
+    "No": 141,
+    "Name": "Pokemon141",
+    "Type1": "Grass",
+    "Type2": "Psychic",
+    "Height": 1.73,
+    "Weight": 22.5,
+    "Legendary": 0
+  },
+  {
+    "No": 142,
+    "Name": "Pokemon142",
+    "Type1": "Dragon",
+    "Type2": "",
+    "Height": 2.04,
+    "Weight": 158.8,
+    "Legendary": 0
+  },
+  {
+    "No": 143,
+    "Name": "Pokemon143",
+    "Type1": "Fire",
+    "Type2": "",
+    "Height": 1.3,
+    "Weight": 66.2,
+    "Legendary": 0
+  },
+  {
+    "No": 144,
+    "Name": "Pokemon144",
+    "Type1": "Psychic",
+    "Type2": "Water",
+    "Height": 1.44,
+    "Weight": 109.2,
+    "Legendary": 1
+  },
+  {
+    "No": 145,
+    "Name": "Pokemon145",
+    "Type1": "Bug",
+    "Type2": "",
+    "Height": 1.24,
+    "Weight": 149.5,
+    "Legendary": 1
+  },
+  {
+    "No": 146,
+    "Name": "Pokemon146",
+    "Type1": "Grass",
+    "Type2": "",
+    "Height": 2.55,
+    "Weight": 83.4,
+    "Legendary": 1
+  },
+  {
+    "No": 147,
+    "Name": "Pokemon147",
+    "Type1": "Water",
+    "Type2": "Normal",
+    "Height": 2.99,
+    "Weight": 159.2,
+    "Legendary": 0
+  },
+  {
+    "No": 148,
+    "Name": "Pokemon148",
+    "Type1": "Water",
+    "Type2": "",
+    "Height": 1.95,
+    "Weight": 30.7,
+    "Legendary": 0
+  },
+  {
+    "No": 149,
+    "Name": "Pokemon149",
+    "Type1": "Normal",
+    "Type2": "",
+    "Height": 1.46,
+    "Weight": 155.0,
+    "Legendary": 0
+  },
+  {
+    "No": 150,
+    "Name": "Pokemon150",
+    "Type1": "Flying",
+    "Type2": "Electric",
+    "Height": 0.69,
+    "Weight": 273.9,
+    "Legendary": 1
+  }
+]
