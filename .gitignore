@@ -76,3 +76,7 @@ Thumbs.db
 
 *.log
 logs/
+
+.pbit
+.pbix
+.pdf
